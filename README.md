@@ -212,7 +212,7 @@ Dashboard designing
 Based on the mock ups received as requirement, the team will start designing the visuals and create measure as and when required
 
 Home view
-<img width="1457" height="818" alt="Screenshot 2025-12-03 122407" src="https://github.com/user-attachments/assets/1a76b1c9-d3ee-4763-93af-f3c5f2ebf93b" />
+<img width="1457" height="818" alt="Screenshot 2025-12-03 122407" src="https://github.com/user-attachments/assets/feccfc87-ac64-464b-a0be-8f8c2e20615f" />
 ---------------------------------------------------------------------------------------------------
 
 Info
@@ -227,35 +227,35 @@ Executive View
 
 ------------------------------------------------------------------------
 Overall Report
-<img width="1479" height="796" alt="Screenshot 2025-12-03 122551" src="https://github.com/user-attachments/assets/72e53a19-a5f0-4e35-bd2f-c3e5c3c33ea2" />
+<img width="1448" height="808" alt="Screenshot 2025-12-03 122648" src="https://github.com/user-attachments/assets/c05185c2-ffb6-4f61-955a-569e29ab8de9" />
 ------------------------------------------------------------------------------
 
 Info Page
-<img width="1499" height="813" alt="Screenshot 2025-12-03 122610" src="https://github.com/user-attachments/assets/cf53c8e9-268b-488f-a5d4-8ddb9c927474" />
+<img width="1424" height="792" alt="Screenshot 2025-12-03 122726" src="https://github.com/user-attachments/assets/c9a15b75-ae15-4584-a027-714756ae84c9" />
 ----------------------------------------------------------------------------------------------------
 Finance View
-<img width="1462" height="809" alt="Screenshot 2025-12-03 122428" src="https://github.com/user-attachments/assets/7d2302fe-e62f-4e32-91aa-4b027610c4d1" />
+<img width="1462" height="809" alt="Screenshot 2025-12-03 122428" src="https://github.com/user-attachments/assets/229d858c-dc1a-46a9-b044-890a53b6ab3a" />
 ---------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------
 
 Sales View
-<img width="1448" height="808" alt="Screenshot 2025-12-03 122451" src="https://github.com/user-attachments/assets/828fffb0-fb63-42b2-96c1-3b67288fbc72" />
+<img width="1448" height="808" alt="Screenshot 2025-12-03 122451" src="https://github.com/user-attachments/assets/4bb8fec6-2436-47f9-8755-32904d037ba8" />
 ---------------------------------------------------------------------
 
 Marketing View
-<img width="1451" height="818" alt="Screenshot 2025-12-03 122529" src="https://github.com/user-attachments/assets/49329b3b-43bb-4857-beaa-49bdd856e6d1" />
+<img width="1513" height="787" alt="Screenshot 2025-12-03 122511" src="https://github.com/user-attachments/assets/e2850154-d317-4bb8-ad38-ebf11568d6f4" />
 ----------------------------------------------------
 
 Supply chain View
-<img width="1479" height="796" alt="Screenshot 2025-12-03 122551" src="https://github.com/user-attachments/assets/1edf0660-f414-4a03-853b-858a26833fb4" />
+<img width="1479" height="796" alt="Screenshot 2025-12-03 122551" src="https://github.com/user-attachments/assets/ed624a39-a4c3-4aeb-9b82-ab73dd408459" />
 --------------------------------------------------------------------------
 
 Executive View
-<img width="1499" height="813" alt="Screenshot 2025-12-03 122610" src="https://github.com/user-attachments/assets/d08bc8bb-746c-4e94-b5c8-e58669b9551a" />
+<img width="1499" height="813" alt="Screenshot 2025-12-03 122610" src="https://github.com/user-attachments/assets/d079bb1c-da80-4a4a-ad0f-abf9e9b8c1d4" />
 -------------------------------------------------------------------------
 
 Products
-<img width="1450" height="815" alt="Screenshot 2025-12-03 122630" src="https://github.com/user-attachments/assets/c02b4fd0-67ba-4a75-9a08-51d1a8626a14" />
+<img width="1450" height="815" alt="Screenshot 2025-12-03 122630" src="https://github.com/user-attachments/assets/1489c544-406e-47da-b866-90a5c75ac318" />
 -----------------------------------------------------------------------------
 
 you can find the full report file here : Report
